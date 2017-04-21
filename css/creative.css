@@ -420,3 +420,7 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+
+.img-responsive{
+  height:600px;
+}
